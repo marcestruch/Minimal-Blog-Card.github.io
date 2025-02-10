@@ -26,8 +26,8 @@ body{
         }
         p.des{
             font-family: sora;
-            font-size: 14px;
-            font-weight: 650;
+            font-size: 12px;
+            font-weight: 500;
             
             color: #7C19EE;
             background-color: #F2EAFD ;
@@ -45,7 +45,7 @@ body{
         }
         p{
             font-family: sora;
-            font-size: 16px;
+            font-size: 13px;
             font-weight: 400;
             color: #4F4F4F;
             margin: 0;
@@ -55,7 +55,7 @@ body{
         }
         p.small{
             font-family: sora;
-            font-size: 13px;
+            font-size: 11px;
             font-weight: 400;
             color: #828282;
             margin: 0;
